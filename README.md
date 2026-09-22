@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jordan, an <a href="https://linkedin.com/in/jordanhenn">Finance Professional</a> ☺</h1>
+<h1>Hi, I'm Jordan, a <a href="https://linkedin.com/in/jordanhenn">Finance Professional</a> ☺</h1>
 
 <h2>Projects:</h2>
 
